@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.npz
+*.json
+*.dat
+*.csv
+*.png
+*.pdf
+*.zip
+reference/
+results*/
+comparison*/
+reference-audit/

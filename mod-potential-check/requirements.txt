@@ -1,0 +1,4 @@
+numpy>=1.20
+matplotlib>=3.3
+# MDcraft with EAMMOD1044 / EAMWMOD1046 / EAMWMOD0644 must already be installed
+# for --backend mdcraft. No automatic installations or downloads are performed.
